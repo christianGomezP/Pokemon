@@ -1,0 +1,21 @@
+import fuego.Charmander;
+import fuego.Charmeleon;
+
+class Main {
+	
+	
+						
+	public static void main(String[] args){
+		
+		/*Charmander miCharmander = new Charmander(20);*/
+		
+		Charmander miCharmander = new Charmander(50);
+		
+		/*System.out.println("Charmander tiene: " + miCharmander.getVelocidad() + " de velocidad");*/
+		
+		/*System.out.println("Charmander tiene: " + miCharmeleon.getDamage() + " de ataque");*/
+		
+	}
+	
+	
+}

@@ -1,0 +1,25 @@
+package fuego;
+
+
+public class Charmander {
+	
+
+	private int velocidad;
+
+	
+	public Charmander(int velocidad){
+		
+		this.velocidad = velocidad;
+
+	}
+	
+							
+	public void setVelocidad(int velocidad){
+		this.velocidad = velocidad;
+	}
+	
+	public int getVelocidad(){
+		return this.velocidad;
+	}
+
+}
